@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Dhaka Biryani",
+      "description": "A fragrant and spicy biryani recipe from the heart of Dhaka, featuring tender pieces of mutton or chicken, and aromatic spices.",
+      "image": "https://i.ibb.co/wRvn6rf/dhakai-biriyani.jpg",
+      "chef": "Chef Farida Rahman",
+      "likes": 1200
+    },
+    {
+      "id": 2,
+      "title": "Chingri Malai Curry",
+      "description": "A creamy and delectable prawn curry prepared with coconut milk, Bengali spices, and served with steamed rice.",
+      "image": "https://i.ibb.co/m4RzqzM/chingri-malai-curry.jpg",
+      "chef": "Chef Nasir Ahmed",
+      "likes": 950
+    },
+    {
+      "id": 3,
+      "title": "Hilsa Bhapa",
+      "description": "A traditional Bengali preparation of hilsa fish steamed with mustard paste and spices, a true delicacy of Bangladesh.",
+      "image": "https://i.ibb.co/nD9bH4V/hilsha-bapa.jpg",
+      "chef": "Chef Sharmila Islam",
+      "likes": 800
+    },
+    {
+      "id": 4,
+      "title": "Bharta and Luchi",
+      "description": "A classic pairing of mashed vegetables (bharta) and deep-fried flatbreads (luchi), a popular comfort food in Bangladesh.",
+      "image": "https://i.ibb.co/Bjt8QTC/vorta-luchi.jpg",
+      "chef": "Chef Aminul Haque",
+      "likes": 720
+    },
+    {
+      "id": 5,
+      "title": "Machher Jhol",
+      "description": "A flavorful Bengali fish curry with spices and vegetables, served hot with steamed rice for a hearty meal.",
+      "image": "https://i.ibb.co/TRqwmkc/macher-jhol.jpg",
+      "chef": "Chef Sultana Akhtar",
+      "likes": 1100
+    },
+    {
+      "id": 6,
+      "title": "Pitha",
+      "description": "Assorted rice cakes, both sweet and savory, made with rice flour and coconut, a traditional Bangladeshi treat often enjoyed during festivals.",
+      "image": "https://i.ibb.co/ryLZTB5/pitha.jpg",
+      "chef": "Chef Rajib Das",
+      "likes": 650
+    }
+  ]
+  

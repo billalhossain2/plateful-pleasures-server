@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Hossain",
+    "experience": "10 years",
+    "recipeCount": 50,
+    "likes": 2000,
+    "image": "https://i.ibb.co/TWDZNJT/chef-1.jpg",
+    "bio": "Passionate about Bangladeshi cuisine!",
+    "recipes": [
+      {
+        "recipe_name": "Biriyani",
+        "ingredients": ["Rice", "Chicken", "Spices", "Onion", "Tomato"],
+        "cooking_method": "Cook rice with spices, then layer with chicken and cook.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/gTN5CDc/biriany.jpg"
+      },
+      {
+        "recipe_name": "Hilsha Fish Curry",
+        "ingredients": [
+          "Hilsha fish",
+          "Mustard",
+          "Spices",
+          "Coconut",
+          "Turmeric"
+        ],
+        "cooking_method": "Marinate fish with mustard and spices, then cook in gravy.",
+        "rating": 4.5,
+        "image": "https://i.ibb.co/DpHyHLr/hilsha-fish-curry.jpg"
+      },
+      {
+        "recipe_name": "Chingri Malai Curry",
+        "ingredients": ["Prawns", "Coconut milk", "Spices", "Ginger", "Garlic"],
+        "cooking_method": "Cook prawns in coconut milk with spices.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/2nx9H0Z/Chingri-Malai-Curry.jpg"
+      },
+      {
+        "recipe_name": "Fuska",
+        "ingredients": [
+          "Semolina balls",
+          "Tamarind water",
+          "Chickpeas",
+          "Potatoes",
+          "Chili"
+        ],
+        "cooking_method": "Fill semolina balls with chickpeas and serve with tamarind water.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/FmsVycg/Fuska.jpg"
+      },
+      {
+        "recipe_name": "Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Jaggery",
+          "Cardamom",
+          "Sesame seeds"
+        ],
+        "cooking_method": "Prepare rice cakes filled with coconut and jaggery.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/wLPry8s/Pitha.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fakruddin Hossain",
+    "experience": "8 years",
+    "recipeCount": 45,
+    "likes": 1800,
+    "image": "https://i.ibb.co/1Gvd2xB/chef-2.jpg",
+    "bio": "Creating mouthwatering Bangladeshi delicacies!",
+    "recipes": [
+      {
+        "recipe_name": "Mutton Kacchi Biryani",
+        "ingredients": ["Mutton", "Basmati rice", "Spices", "Yogurt", "Mint"],
+        "cooking_method": "Layer marinated mutton with rice and cook slowly.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/PWYsPJM/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Mishti Doi",
+        "ingredients": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Nuts"],
+        "cooking_method": "Set sweet yogurt with sugar, cardamom, and saffron.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/861mdmq/Mishti-Doi.jpg"
+      },
+      {
+        "recipe_name": "Bhapa Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Molasses",
+          "Cardamom",
+          "Raisins"
+        ],
+        "cooking_method": "Steam rice cakes filled with coconut and molasses.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/DLZ9cPZ/Bhapa-Pitha.jpg"
+      },
+      {
+        "recipe_name": "Kala Bhuna",
+        "ingredients": [
+          "Black lentils",
+          "Spices",
+          "Ghee",
+          "Garlic",
+          "Coriander"
+        ],
+        "cooking_method": "Slow-cook black lentils with spices and ghee.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/TPz1Qhn/Kala-Bhuna.jpg"
+      },
+      {
+        "recipe_name": "Rasgulla",
+        "ingredients": ["Milk", "Sugar", "Cardamom", "Saffron", "Pistachios"],
+        "cooking_method": "Make spongy milk balls soaked in sugar syrup.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/hHzJhmc/Rasgulla.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sanjida Khatun",
+    "experience": "12 years",
+    "recipeCount": 60,
+    "likes": 2200,
+    "image": "https://i.ibb.co/9WKSfxg/chef-3.jpg",
+    "bio": "Exploring the rich flavors of Bangladesh!",
+    "recipes": [
+      {
+        "recipe_name": "Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Jaggery",
+          "Cardamom",
+          "Sesame seeds"
+        ],
+        "cooking_method": "Prepare rice cakes filled with coconut and jaggery.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/wLPry8s/Pitha.jpg"
+      },
+      {
+        "recipe_name": "Beef Bhuna",
+        "ingredients": ["Beef", "Onion", "Spices", "Tomato", "Cilantro"],
+        "cooking_method": "Slow-cook beef with spices and onions until tender.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/C6RBb2R/beef-buna.jpg"
+      },
+      {
+        "recipe_name": "Khichuri",
+        "ingredients": ["Rice", "Lentils", "Spices", "Ghee", "Cumin seeds"],
+        "cooking_method": "Cook rice and lentils with spices until it's a thick porridge.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/LkZtjGk/khicury.jpg"
+      },
+      {
+        "recipe_name": "Sandesh",
+        "ingredients": ["Paneer", "Sugar", "Cardamom", "Pistachios", "Saffron"],
+        "cooking_method": "Make sweet cottage cheese fudge with sugar and cardamom.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/fHbvbD8/Sandesh.jpg"
+      },
+      {
+        "recipe_name": "Panta Ilish",
+        "ingredients": [
+          "Fermented rice",
+          "Hilsha fish",
+          "Green chilies",
+          "Onion",
+          "Mustard oil"
+        ],
+        "cooking_method": "Serve fermented rice with marinated hilsha fish and spices.",
+        "rating": 4.5,
+        "image": "https://i.ibb.co/Hg3hwm5/Panta-Ilish.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kabir Ahmed",
+    "experience": "15 years",
+    "recipeCount": 70,
+    "likes": 2500,
+    "image": "https://i.ibb.co/zFBssDt/chef-4.jpg",
+    "bio": "Bringing authentic Bangladeshi flavors to the world!",
+    "recipes": [
+      {
+        "recipe_name": "Mutton Kacchi Biryani",
+        "ingredients": ["Mutton", "Basmati rice", "Spices", "Yogurt", "Mint"],
+        "cooking_method": "Layer marinated mutton with rice and cook slowly.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Mishti Doi",
+        "ingredients": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Nuts"],
+        "cooking_method": "Set sweet yogurt with sugar, cardamom, and saffron.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/861mdmq/Mishti-Doi.jpg"
+      },
+      {
+        "recipe_name": "Bhapa Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Molasses",
+          "Cardamom",
+          "Raisins"
+        ],
+        "cooking_method": "Steam rice cakes filled with coconut and molasses.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/nM31rQb/Bhapa-Pitha.jpg"
+      },
+      {
+        "recipe_name": "Kala Bhuna",
+        "ingredients": [
+          "Black lentils",
+          "Spices",
+          "Ghee",
+          "Garlic",
+          "Coriander"
+        ],
+        "cooking_method": "Slow-cook black lentils with spices and ghee.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/TPz1Qhn/Kala-Bhuna.jpg"
+      },
+      {
+        "recipe_name": "Rasgulla",
+        "ingredients": ["Milk", "Sugar", "Cardamom", "Saffron", "Pistachios"],
+        "cooking_method": "Make spongy milk balls soaked in sugar syrup.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/NLjCSpK/Rasgulla.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Manik Miah",
+    "experience": "9 years",
+    "recipeCount": 55,
+    "likes": 2100,
+    "image": "https://i.ibb.co/HFZjB2L/chef-5.jpg",
+    "bio": "Dedicating to the art of Bangladeshi cuisine!",
+    "recipes": [
+      {
+        "recipe_name": "Bhapa Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Molasses",
+          "Cardamom",
+          "Raisins"
+        ],
+        "cooking_method": "Steam rice cakes filled with coconut and molasses.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/nM31rQb/Bhapa-Pitha.jpg"
+      },
+      {
+        "recipe_name": "Kala Bhuna",
+        "ingredients": [
+          "Black lentils",
+          "Spices",
+          "Ghee",
+          "Garlic",
+          "Coriander"
+        ],
+        "cooking_method": "Slow-cook black lentils with spices and ghee.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/TPz1Qhn/Kala-Bhuna.jpg"
+      },
+      {
+        "recipe_name": "Mutton Kacchi Biryani",
+        "ingredients": ["Mutton", "Basmati rice", "Spices", "Yogurt", "Mint"],
+        "cooking_method": "Layer marinated mutton with rice and cook slowly.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Mishti Doi",
+        "ingredients": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Nuts"],
+        "cooking_method": "Set sweet yogurt with sugar, cardamom, and saffron.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/861mdmq/Mishti-Doi.jpg"
+      },
+      {
+        "recipe_name": "Rasgulla",
+        "ingredients": ["Milk", "Sugar", "Cardamom", "Saffron", "Pistachios"],
+        "cooking_method": "Make spongy milk balls soaked in sugar syrup.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/NLjCSpK/Rasgulla.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Feroze Khan",
+    "experience": "11 years",
+    "recipeCount": 58,
+    "likes": 2300,
+    "image": "https://i.ibb.co/8rKKG9f/chef-6.jpg",
+    "bio": "Preserving the traditions of Bangladeshi cooking!",
+    "recipes": [
+      {
+        "recipe_name": "Kachchi Korma",
+        "ingredients": ["Chicken", "Yogurt", "Spices", "Saffron", "Almonds"],
+        "cooking_method": "Marinate chicken with yogurt and spices, then cook slowly.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Rasgulla",
+        "ingredients": ["Milk", "Sugar", "Cardamom", "Saffron", "Pistachios"],
+        "cooking_method": "Make spongy milk balls soaked in sugar syrup.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/NLjCSpK/Rasgulla.jpg"
+      },
+      {
+        "recipe_name": "Pitha-Puli",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Jaggery",
+          "Cardamom",
+          "Sesame seeds"
+        ],
+        "cooking_method": "Prepare rice cakes filled with coconut and jaggery.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Chingri Malai Curry",
+        "ingredients": ["Prawns", "Coconut milk", "Spices", "Ginger", "Garlic"],
+        "cooking_method": "Cook prawns in coconut milk with spices.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/m4RzqzM/chingri-malai-curry.jpg"
+      },
+      {
+        "recipe_name": "Biriyani",
+        "ingredients": ["Rice", "Chicken", "Spices", "Onion", "Tomato"],
+        "cooking_method": "Cook rice with spices, then layer with chicken and cook.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sabbir Rahman",
+    "experience": "14 years",
+    "recipeCount": 65,
+    "likes": 2400,
+    "image": "https://i.ibb.co/52btMsL/chef-7.jpg",
+    "bio": "Crafting delicious Bangladeshi masterpieces!",
+    "recipes": [
+      {
+        "recipe_name": "Haleem",
+        "ingredients": ["Wheat", "Meat", "Spices", "Ghee", "Mint"],
+        "cooking_method": "Slow-cook wheat and meat with spices until it thickens.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Pitha-Puli",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Jaggery",
+          "Cardamom",
+          "Sesame seeds"
+        ],
+        "cooking_method": "Prepare rice cakes filled with coconut and jaggery.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Khichuri",
+        "ingredients": ["Rice", "Lentils", "Spices", "Ghee", "Cumin seeds"],
+        "cooking_method": "Cook rice and lentils with spices until it's a thick porridge.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Sandesh",
+        "ingredients": ["Paneer", "Sugar", "Cardamom", "Pistachios", "Saffron"],
+        "cooking_method": "Make sweet cottage cheese fudge with sugar and cardamom.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Beef Bhuna",
+        "ingredients": ["Beef", "Onion", "Spices", "Tomato", "Cilantro"],
+        "cooking_method": "Slow-cook beef with spices and onions until tender.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Saidur Rahman",
+    "experience": "13 years",
+    "recipeCount": 62,
+    "likes": 2350,
+    "image": "https://i.ibb.co/BNFSpxc/chef-8.jpg",
+    "bio": "Serving the authentic flavors of Bangladesh!",
+    "recipes": [
+      {
+        "recipe_name": "Khichuri",
+        "ingredients": ["Rice", "Lentils", "Spices", "Ghee", "Cumin seeds"],
+        "cooking_method": "Cook rice and lentils with spices until it's a thick porridge.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Sandesh",
+        "ingredients": ["Paneer", "Sugar", "Cardamom", "Pistachios", "Saffron"],
+        "cooking_method": "Make sweet cottage cheese fudge with sugar and cardamom.",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Chitol Macher Muitha",
+        "ingredients": ["Fish", "Spices", "Mustard oil", "Onion", "Garlic"],
+        "cooking_method": "Make fish balls with spices, then cook in mustard oil.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Patishapta",
+        "ingredients": ["Rice flour", "Milk", "Jaggery", "Coconut", "Cardamom"],
+        "cooking_method": "Prepare rice crepes filled with sweetened milk, jaggery, and coconut.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Mutton Kacchi Biryani",
+        "ingredients": ["Mutton", "Basmati rice", "Spices", "Yogurt", "Mint"],
+        "cooking_method": "Layer marinated mutton with rice and cook slowly.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Khalek Mallik",
+    "experience": "7 years",
+    "recipeCount": 40,
+    "likes": 1600,
+    "image": "https://i.ibb.co/R68Bmcx/chef-9.jpg",
+    "bio": "Exploring and innovating Bangladeshi cuisine!",
+    "recipes": [
+      {
+        "recipe_name": "Chitol Macher Muitha",
+        "ingredients": ["Fish", "Spices", "Mustard oil", "Onion", "Garlic"],
+        "cooking_method": "Make fish balls with spices, then cook in mustard oil.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Patishapta",
+        "ingredients": ["Rice flour", "Milk", "Jaggery", "Coconut", "Cardamom"],
+        "cooking_method": "Prepare rice crepes filled with sweetened milk, jaggery, and coconut.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Bhapa Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Coconut",
+          "Molasses",
+          "Cardamom",
+          "Raisins"
+        ],
+        "cooking_method": "Steam rice cakes filled with coconut and molasses.",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Kala Bhuna",
+        "ingredients": [
+          "Black lentils",
+          "Spices",
+          "Ghee",
+          "Garlic",
+          "Coriander"
+        ],
+        "cooking_method": "Slow-cook black lentils with spices and ghee.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      },
+      {
+        "recipe_name": "Rasgulla",
+        "ingredients": ["Milk", "Sugar", "Cardamom", "Saffron", "Pistachios"],
+        "cooking_method": "Make spongy milk balls soaked in sugar syrup.",
+        "rating": 4.5,
+        "image": "https://i.ibb.co/bKL5Wv7/Mutton-Kacchi-Biryani.jpg"
+      }
+    ]
+  }
+]
